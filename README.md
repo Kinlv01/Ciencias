@@ -1,2 +1,2 @@
 # Ciencias
-Mis tareas de manejo de datos c:
+Proyectos realizados a lo largo de la carrera
